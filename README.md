@@ -45,6 +45,7 @@ Imported the given data into Power BI one after the other then,
 
 Q1
 (i): 36% Drop-off rate
+
 (ii): The GTX Basic product has the highest won deals and the second chart below also shows that it won across all the sectors.
 
 ![Desktop-screenshot (1)](https://github.com/user-attachments/assets/e6ae5337-56d8-47b3-bca7-def066fa32bb)
